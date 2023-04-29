@@ -1,2 +1,2 @@
-# Steam - Getting Data for Appid
+# Steam
 This repository contains several different projects related to Steam games, starting from using the Steam API to analysis with the datasets.
