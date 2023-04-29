@@ -11,4 +11,5 @@ Workflow:
 
 
 - Get info for each Steam appid
+- 
 Folder: "Getting Info for Appid"
