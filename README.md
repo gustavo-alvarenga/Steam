@@ -12,4 +12,4 @@ Workflow:
 
 2. Get info for each Steam appid
 
-    Folder: "Getting Info for Appid"
+    Folder: "2. Getting Info for Appid"
