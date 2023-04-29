@@ -8,6 +8,7 @@ Workflow:
 
 1. Get all Steam Appids
 
+    Folder: "1. Getting Steam Appids"
 
 
 2. Get info for each Steam appid
