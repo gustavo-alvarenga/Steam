@@ -6,10 +6,10 @@ This repository contains several different projects related to Steam games, star
 Workflow:
 
 
-- Get all Steam Appids
+1. Get all Steam Appids
 
 
 
-- Get info for each Steam appid
-- 
-Folder: "Getting Info for Appid"
+2. Get info for each Steam appid
+
+    Folder: "Getting Info for Appid"
